@@ -1,5 +1,5 @@
 ---
-name: flight-tracker
+name: opensky-flight-tracker
 description: >
   Use this skill when the user asks about live flight positions, aircraft
   tracking by callsign or flight number, or flights currently overhead a
